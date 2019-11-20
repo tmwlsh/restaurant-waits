@@ -62,7 +62,7 @@
       "stars": 2,
       "waitCat": "0 - 2 days",
       "wait": "0 - 2 days",
-      "website": "ladamedepiclondon.co.uk"
+      "website": "http://ladamedepiclondon.co.uk"
     },
     "Le Gavroche": {
       "name": "Le Gavroche",
@@ -94,7 +94,7 @@
       "stars": 2,
       "waitCat": "0 - 2 days",
       "wait": "0 - 2 days",
-      "website": "umurestaurant.com"
+      "website": "http://umurestaurant.com"
     },
     "Greenhouse": {
       "name": "Greenhouse",
@@ -286,7 +286,7 @@
       "stars": 2,
       "waitCat": "2 - 3 months",
       "wait": "2 - 3 months",
-      "website": "michel-sarran.com/fr/"
+      "website": "http://michel-sarran.com/fr/"
     },
     "Schwarzwaldstube Baiersbronn": {
       "name": "Schwarzwaldstube Baiersbronn",
@@ -294,7 +294,7 @@
       "stars": 3,
       "waitCat": "2 - 3 months",
       "wait": "2 - 3 months",
-      "website": "traube-tonbach.de/en/restaurants-bar/schwarzwaldstube/"
+      "website": "http://traube-tonbach.de/en/restaurants-bar/schwarzwaldstube/"
     }
   }
 }
