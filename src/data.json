@@ -5,259 +5,296 @@
       "location": "Aughton",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://moorhall.com/"
     },
     "Raby Hunt": {
       "name": "Raby Hunt",
       "location": "Darlington",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.rabyhuntrestaurant.co.uk/"
     },
     "Kitchen Table at Bubbledogs": {
       "name": "Kitchen Table at Bubbledogs",
       "location": "Bloomsbury",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://kitchentablelondon.co.uk/"
     },
     "The Dining Room": {
       "name": "The Dining Room",
       "location": "Malmesbury",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.whatleymanor.com/eat-drink/the-dining-room/"
     },
     "The Hand & Flowers": {
       "name": "The Hand & Flowers",
       "location": "Marlow",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.thehandandflowers.co.uk/"
     },
     "Belmond Le Manoir aux Quat' Saisons": {
       "name": "Belmond Le Manoir aux Quat' Saisons",
       "location": "Oxford",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons/dining"
     },
     "Restaurant Nathan Outlaw": {
       "name": "Restaurant Nathan Outlaw",
       "location": "Port Isaac",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://nathan-outlaw.com/restaurants/restaurant-nathan-outlaw/"
     },
     "La Dame de Pic": {
       "name": "La Dame de Pic",
       "location": "City Of London",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "ladamedepiclondon.co.uk"
     },
     "Le Gavroche": {
       "name": "Le Gavroche",
       "location": "Mayfair",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "http://www.le-gavroche.co.uk/"
     },
     "Greenhouse": {
       "name": "Greenhouse",
       "location": "Mayfair",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.greenhouserestaurant.co.uk/"
     },
     "Hélène Darroze at The Connaught": {
       "name": "Hélène Darroze at The Connaught",
       "location": "Mayfair",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.the-connaught.co.uk/restaurants-bars/helene-darroze-at-the-connaught/"
     },
     "Umu": {
       "name": "Umu",
       "location": "Mayfair",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "umurestaurant.com"
     },
     "Greenhouse": {
       "name": "Greenhouse",
       "location": "Dublin",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://www.thegreenhouserestaurant.ie/"
     },
     "Patrick Guilbaud": {
       "name": "Patrick Guilbaud",
       "location": "Dublin",
       "stars": 2,
       "waitCat": "0 - 2 days",
-      "wait": "0 - 2 days"
+      "wait": "0 - 2 days",
+      "website": "https://restaurantpatrickguilbaud.ie/"
     },
     "L'Enclume": {
       "name": "L'Enclume",
       "location": "Cartmel",
       "stars": 2,
       "waitCat": "3 - 4 days",
-      "wait": "3 - 4 days"
+      "wait": "3 - 4 days",
+      "website": "https://www.lenclume.co.uk/"
     },
     "Restaurant Sat Bains": {
       "name": "Restaurant Sat Bains",
       "location": "Nottingham",
       "stars": 2,
       "waitCat": "3 - 4 days",
-      "wait": "3 - 4 days"
+      "wait": "3 - 4 days",
+      "website": "https://www.restaurantsatbains.com/"
     },
     "Claude Bosi at Bibendum": {
       "name": "Claude Bosi at Bibendum",
       "location": "Chelsea",
       "stars": 2,
       "waitCat": "3 - 4 days",
-      "wait": "3 - 4 days"
+      "wait": "3 - 4 days",
+      "website": "https://claudebosi.com/"
     },
     "Alain Ducasse at The Dorchester": {
       "name": "Alain Ducasse at The Dorchester",
       "location": "Mayfair",
       "stars": 3,
       "waitCat": "1 - 2 weeks",
-      "wait": "1 - 2 weeks"
+      "wait": "1 - 2 weeks",
+      "website": "https://www.alainducasse-dorchester.com/"
     },
     "Sketch": {
       "name": "Sketch",
       "location": "Mayfair",
       "stars": 3,
       "waitCat": "1 - 2 weeks",
-      "wait": "1 - 2 weeks"
+      "wait": "1 - 2 weeks",
+      "website": "https://sketch.london/"
     },
     "Midsummer House": {
       "name": "Midsummer House",
       "location": "Cambridge",
       "stars": 2,
       "waitCat": "1 - 2 weeks",
-      "wait": "1 - 2 weeks"
+      "wait": "1 - 2 weeks",
+      "website": "https://midsummerhouse.co.uk/"
     },
     "Andrew Fairlie at Gleneagles": {
       "name": "Andrew Fairlie at Gleneagles",
       "location": "Auchterarder",
       "stars": 2,
       "waitCat": "1 - 2 weeks",
-      "wait": "1 - 2 weeks"
+      "wait": "1 - 2 weeks",
+      "website": "https://www.andrewfairlie.co.uk/"
     },
     "The Fat Duck": {
       "name": "The Fat Duck",
       "location": "Bray",
       "stars": 3,
       "waitCat": "2 - 3 weeks",
-      "wait": "2 - 3 weeks"
+      "wait": "2 - 3 weeks",
+      "website": "https://www.thefatduck.co.uk/"
     },
     "The Ledbury": {
       "name": "The Ledbury",
       "location": "Notting Hill",
       "stars": 2,
       "waitCat": "1 - 2 months",
-      "wait": "1 - 2 months"
+      "wait": "1 - 2 months",
+      "website": "https://www.theledbury.com/"
     },
     "Gordon Ramsay": {
       "name": "Gordon Ramsay",
       "location": "Chelsea",
       "stars": 3,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "https://www.gordonramsayrestaurants.com/restaurant-gordon-ramsay/menus/"
     },
     "CORE by Clare Smyth": {
       "name": "CORE by Clare Smyth",
       "location": "Notting Hill",
       "stars": 2,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "https://www.corebyclaresmyth.com/"
     },
     "Aimsir": {
       "name": "Aimsir",
       "location": "Celbridge",
       "stars": 2,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "https://aimsir.ie/"
     },
     "Le Clos des Sens": {
       "name": "Le Clos des Sens",
       "location": "Chagny, France",
       "stars": 3,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "https://www.closdessens.com/en/"
     },
     "Dinner by Heston Blumenthal at Mandarin Oriental Hyde Park": {
       "name": "Dinner by Heston Blumenthal at Mandarin Oriental Hyde Park",
       "location": "Knightsbridge",
       "stars": 2,
       "waitCat": "3 - 4 months",
-      "wait": "3 - 4 months"
+      "wait": "3 - 4 months",
+      "website": "https://www.mandarinoriental.com/london/hyde-park/fine-dining/restaurants/british-cuisine/dinner-by-heston-blumenthal/menu"
     },
     "De Librije": {
       "name": "De Librije",
       "location": "Zwolle, Netherlands",
       "stars": 3,
       "waitCat": "4 months +",
-      "wait": "over 6 months"
+      "wait": "over 6 months",
+      "website": "https://www.librije.com/"
     },
     "El Celler de Can Roca": {
       "name": "El Celler de Can Roca",
       "location": "Girona, Spain",
       "stars": 3,
       "waitCat": "4 months +",
-      "wait": "4 - 5 months"
+      "wait": "4 - 5 months",
+      "website": "https://cellercanroca.com/"
     },
     "Dinner by Heston Blumenthal": {
       "name": "Dinner by Heston Blumenthal",
       "location": "London",
       "stars": 2,
       "waitCat": "4 months +",
-      "wait": "3 - 4 months"
+      "wait": "3 - 4 months",
+      "website": "https://www.dinnerbyheston.co.uk/"
     },
     "Osteria Francescana": {
       "name": "Osteria Francescana",
       "location": "Modena, Italy",
       "stars": 3,
       "waitCat": "4 months +",
-      "wait": "3 - 4 months"
+      "wait": "3 - 4 months",
+      "website": "https://www.osteriafrancescana.it/"
     },
     "René et Maxime Meilleur": {
       "name": "René et Maxime Meilleur",
       "location": "Saint-Martin-de-Belleville, France",
       "stars": 3,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "la-bouitte.com/en/"
     },
     "La Chèvre d'Or": {
       "name": "La Chèvre d'Or",
       "location": "Èze, France",
       "stars": 2,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "https://moorhall.com/"
     },
     "Hostellerie Jérôme": {
       "name": "Hostellerie Jérôme",
       "location": "La Turbie, France",
       "stars": 2,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "https://www.hostellerie-jerome.com/"
     },
     "Michel Sarran": {
       "name": "Michel Sarran",
       "location": "Toulouse, France",
       "stars": 2,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "michel-sarran.com/fr/"
     },
     "Schwarzwaldstube Baiersbronn": {
       "name": "Schwarzwaldstube Baiersbronn",
       "location": "Tonbach, Germany",
       "stars": 3,
       "waitCat": "2 - 3 months",
-      "wait": "2 - 3 months"
+      "wait": "2 - 3 months",
+      "website": "traube-tonbach.de/en/restaurants-bar/schwarzwaldstube/"
     }
   }
 }

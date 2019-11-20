@@ -31,9 +31,48 @@ ul.rest-list {
         }
       }
       p {
-        margin: 0 0 10px 0;
+        margin: 0 0 5px 0;
+        span {
+          font-weight: bold;
+        }
         &:last-of-type {
           margin: 0;
+        }
+      }
+      a {
+        text-decoration: none;
+        margin: 20px 0 10px 0;
+        display: inline-block;
+        position: relative;
+        transition: .25s $transition;
+        span {
+          color: #000000;
+          z-index: 2;
+          transition: .25s $transition;
+          position: relative;
+          display: block;
+        }
+        &:before {
+          content: '';
+          width: 100%;
+          height: 1px;
+          background-color: $darkGrey;
+          position: absolute;
+          left: 0;
+          bottom: -5px;
+          transition: .25s $transition;
+          z-index: 1;
+        }
+        @media all and (min-width: 1024px){
+          &:hover {
+            padding: 0 10px;
+            span {
+              color: #ffffff;
+            }
+            &:before {
+              height: 29px;
+            }
+          }
         }
       }
     }
