@@ -39,9 +39,26 @@ ul.rest-list {
           margin: 0;
         }
       }
+      ul.stars {
+        display: block;
+        width: 100%;
+        margin: 10px 0;
+        padding: 0;
+        list-style-type: none;
+        li {
+          width: auto;
+          margin: 0 3px 0 0;
+          padding: 0;
+          display: inline-block;
+          list-style-type: none;
+          img {
+            max-width: 20px;
+          }
+        }
+      }
       a {
         text-decoration: none;
-        margin: 20px 0 10px 0;
+        margin: 0 0 10px 0;
         display: inline-block;
         position: relative;
         transition: .25s $transition;
